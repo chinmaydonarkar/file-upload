@@ -69,10 +69,10 @@ This runs:
 Create a `.env` file in the root:
 
 ```env
-DATABASE_URL="postgresql://postgres:postgres@localhost:5432/fileupload"
-JWT_SECRET="supersecret"
-REDIS_HOST=localhost
-REDIS_PORT=6379
+DATABASE_URL="your db url"
+JWT_SECRET="you secret"
+REDIS_HOST=Your host
+REDIS_PORT= your port
 UPLOAD_DIR=./uploads
 ```
 
@@ -207,8 +207,7 @@ uploads/              # Where files are saved
 
 **Chinmay Donarkar**  
 💼 Backend Developer  
-📧 chinmay@example.com  
-🔗 [GitHub](https://github.com/yourusername)
+🔗 [GitHub](https://github.com/chinmaydonarkar)
 
 ---
 
