@@ -5,7 +5,7 @@ A secure and modular backend microservice built using **NestJS**, supporting:
 - 📤 File uploads with metadata
 - ⚙️ Background processing using BullMQ (Redis)
 - 🗃️ PostgreSQL with Prisma ORM
-- ✅ Secure file status API with user access control
+- ✅ Secure file status API with user access controls
 
 ---
 
